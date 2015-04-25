@@ -1,0 +1,30 @@
+{
+  "name": "guppy-pre-commit",
+  "version": "0.1.1",
+  "description": "Installs a pre-commit git-hook only, for guppy packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "guppy pre-commit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/therealklanni/guppy-pre-commit.git"
+  },
+  "keywords": [
+    "guppy",
+    "pre-commit"
+  ],
+  "author": {
+    "name": "Kevin Lanni",
+    "url": "https://github.com/therealklanni"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/therealklanni/guppy-pre-commit/issues"
+  },
+  "homepage": "https://github.com/therealklanni/guppy-pre-commit",
+  "dependencies": {
+    "guppy-cli": "^0.2.2"
+  }
+}
