@@ -13,6 +13,8 @@
   },
   "keywords": [
     "guppy",
+    "git-guppy",
+    "guppy-hook",
     "pre-commit"
   ],
   "author": {
