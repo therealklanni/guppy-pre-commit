@@ -27,6 +27,6 @@
   },
   "homepage": "https://github.com/therealklanni/guppy-pre-commit",
   "dependencies": {
-    "guppy-cli": "^0.3.0"
+    "guppy-cli": "^0.4.0"
   }
 }
